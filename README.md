@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="800" src="./images/Space Wars.png">
+    <img width="800" src="./images/snakegame.png">
 </p>
 
 <h1 align="center">Snake Game</h1>
